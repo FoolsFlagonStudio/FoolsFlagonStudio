@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/Ant_Design-120d0a?style=flat-square&logo=antdesign&logoColor=c9a227" alt="Ant Design">
 
 **Backend & data**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres&theme=dark" alt="Node.js, Express, Flask, PostgreSQL">
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask,postgres&theme=dark" alt="Node.js, Express, Srping Boot, Flask, PostgreSQL">
 
 **Cloud & DevOps**<br>
 <img src="https://skillicons.dev/icons?i=docker,aws&theme=dark" alt="Docker, AWS">
