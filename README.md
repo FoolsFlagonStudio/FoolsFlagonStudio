@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="[YOUR SITE]"><img src="https://img.shields.io/badge/Website-c9a227?style=flat-square&logoColor=120d0a" alt="Website"></a>
-  <a href="mailto:[YOUR EMAIL]"><img src="https://img.shields.io/badge/Email-c9a227?style=flat-square&logo=gmail&logoColor=120d0a" alt="Email"></a>
-  <a href="[YOUR LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-c9a227?style=flat-square&logo=linkedin&logoColor=120d0a" alt="LinkedIn"></a>
+  <a href=""><img src="https://img.shields.io/badge/Website-c9a227?style=flat-square&logoColor=120d0a" alt="Website"></a>
+  <a href="mailto:evan@foolsflagon.com"><img src="https://img.shields.io/badge/Email-c9a227?style=flat-square&logo=gmail&logoColor=120d0a" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/roberts-evan"><img src="https://img.shields.io/badge/LinkedIn-c9a227?style=flat-square&logo=linkedin&logoColor=120d0a" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Open_for-Contract_Work-9b2d2d?style=flat-square" alt="Open for contract work">
 </p>
 
